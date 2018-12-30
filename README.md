@@ -4,3 +4,5 @@
 
 
 ## Second Task:
+- The files for the second task is under second_task folder
+- The app engine URL is: https://instantsearch-task-2.appspot.com/
